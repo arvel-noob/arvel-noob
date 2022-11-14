@@ -1,7 +1,7 @@
-Hi , I'm WHO ME lupine
+# Hi , I'm WHO ME lupine
 
 
-★ You Crazy ★ ★ STATISTICS ★
+# ★ You Crazy ★ ★ STATISTICS ★
 
 😍 MUSLIM
 🌚 SINGLE
