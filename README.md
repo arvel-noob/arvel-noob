@@ -1,4 +1,10 @@
 # Hi , I'm WHO ME lupine
+<br>
+<br>
+<br>
+<p align="center">
+<a href="https://twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://instagram.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
   <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
@@ -11,14 +17,10 @@
 
 ![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=KangProf&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=WHO ME&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KangProf&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=arvel-noob&theme=dark&hide_border=true" width = 400>
 </p>
-
-
-# JANGAN ASAL RECODE 
-
 # RECODE IZIN KE SAYA 
 # SOSIAL MEDIA SAYA
 
