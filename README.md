@@ -1,7 +1,21 @@
 # Hi , I'm WHO ME lupine
+<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://instagram.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
+  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
+</p>
+<br>
+<br>
 
+     
+<img align='kanan' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" />
 
-# ★ You Crazy ★ ★ STATISTICS ★
+![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
+<p align="center">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=KangProf&show_icons=true&theme=chartreuse-dark&locale=id">
+</p>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KangProf&theme=dark&hide_border=true" width = 400>
+</p>
+
 
 # JANGAN ASAL RECODE 
 
