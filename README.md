@@ -1,4 +1,4 @@
-# Hi , I'm WHO ME lupine
+### Hi , I'm WHO ME 
 <a href="https://linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://instagram.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
@@ -31,6 +31,8 @@
 
 <!-- Gambar apa pun disejajarkan ke kanan. Hati-hati lebarnya -->
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+### MY SOCIAL MEDIA
 
 * [<img alt="arvel-noob Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/arvel-noob)<br>
 * [<img alt="ProfAcc Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Facebook</b>](https://www.facebook.com/arvel.runiansyah.5)<br>
