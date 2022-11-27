@@ -1,4 +1,7 @@
 ### Hi , I'm WHO ME 
+## KASIH STAR 🌟🌟🌟🌟🌟🌟🌟
+![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
+
 <a href="https://linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://instagram.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
