@@ -46,7 +46,7 @@
 * **Tren Pengunjung @WHO ME**
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
 >
-### 😍 MUSLIM
-### 🌚 SINGLE
-### 👩‍💻 TEACHER
-### 🌟 FOCUSING ON PYTHON
+### 🖕 GANTENG
+### 🥰 BAIK
+### ☝ SOPAN
+### 🌟 PUNYA TUHAN
