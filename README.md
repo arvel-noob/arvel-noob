@@ -43,7 +43,7 @@
 > *Jumlah pengunjung*
 * **Pengunjung Github @arvel-noob**
 ![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
-* **Tren Pengunjung @MHF-233**
+* **Tren Pengunjung @WHO ME**
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
 >
 ### 😍 MUSLIM
